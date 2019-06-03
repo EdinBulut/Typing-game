@@ -1,1 +1,1 @@
-# Typing-igrica
+# Typing igrica
