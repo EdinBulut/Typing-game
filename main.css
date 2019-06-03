@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.card-body {
+  padding: 7px;
+}
+
+.thumb {
+  height: 120px;
+
+}
+#info {
+  display: none;
+}
